@@ -65,7 +65,11 @@ Discover -> Analyze -> Research -> Score -> Create -> Publish -> Learn
 
 ## Demo Availability
 
-RYNTA AI is an actively developed pre-release platform. A private technical walkthrough and selected implementation details are available upon request.
+RYNTA AI is an actively developed pre-release platform.
+
+- [Product Walkthrough](https://youtu.be/zteFUe7v3g0)
+
+Additional technical walkthroughs and selected implementation details are available upon request.
 
 ## Source Availability
 
